@@ -1,0 +1,2 @@
+module findVar.java {
+}
